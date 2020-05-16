@@ -43,8 +43,8 @@ class App extends Component {
   render() {
     return (
       <>
-        <Button onClick={() => this.setState({employees: this.state.employees.sort(this.sortEmployees)})}>Sort</Button>
-        <Button onClick={() => this.setState({employees: this.filterEmployees()})}>Find All Tennis Player</Button>
+        <Button onClick={() => this.setState({employees: this.state.employees.sort(this.sortEmployees)})}>Sort by Player's First Name</Button>
+        {/* <Button onClick={() => this.setState({employees: this.filterEmployees()})}>Find All Tennis Player</Button> */}
         <Employee employees={this.state.employees} />
       </>
     );
