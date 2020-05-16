@@ -43,7 +43,9 @@ class App extends Component {
   render() {
     return (      
       <>
-      <div>This is a short list of Professional Tennis Players, from the WTA and ATP Tours, respectively.</div><br />
+      <h2>TENNIS PLAYERS DIRECTORY</h2>
+      <div>Professional Tennis Players - WTA and ATP Tours.</div>
+      <h6>*WTA and ATP Tours would not disclose the players' email addresses/phone numbers :)</h6>
         <Button onClick={() => this.setState({employees: this.state.employees.sort(this.sortEmployees)})}>Sort by Player's First Name</Button>
         {/* <Button onClick={() => this.setState({employees: this.filterEmployees()})}>Find All Tennis Player</Button> */}
         <Employee employees={this.state.employees} />

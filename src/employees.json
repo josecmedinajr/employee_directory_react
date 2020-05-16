@@ -2,84 +2,84 @@
     {
         "id": 1,
         "name": "Roger Federer",
-        "image": "../src/Roger.jpg",
+        "image": "/images/Roger.jpg",
         "role": "Technical Master",
         "department": "Tennis Players"
     },
     {
         "id": 2,
         "name": "Serena Williams",
-        "image": "../src/Serena.jpg",
+        "image": "/images/Serena.jpg",
         "role": "Tennis Diva",
         "department": "Tennis Players"
     },
     {
         "id": 3,
         "name": "Rafael Nadal",
-        "image": "../src/Rafa.jpg",
+        "image": "/images/Rafa.jpg",
         "role": "The Spanish Bull",
         "department": "Tennis Players"
     },
     {
         "id": 4,
         "name": "Simona Halep",
-        "image": "../src/Simona.jpg",
+        "image": "/images/Simona.jpg",
         "role": "Small Romanian Giant",
         "department": "Tennis Players"
     },
     {
         "id": 5,
         "name": "Novak Djokovik",
-        "image": "../src/Novak.jpg",
+        "image": "/images/Novak.jpg",
         "role": "Flexible Wonder",
         "department": "Tennis Players"
     },
     {
         "id": 6,
         "name": "Bianca Andreescu",
-        "image": "../src/Bianca.jpg",
+        "image": "/images/Bianca.jpg",
         "role": "Young Dynamite",
         "department": "Tennis Players"
     },
     {
         "id": 7,
         "name": "Juan Martin Del Potro",
-        "image": "../src/JuanMartin.jpg",
+        "image": "/images/JuanMartin.jpg",
         "role": "La Torre de Tandil",
         "department": "Tennis Players"
     },
     {
         "id": 8,
         "name": "Naomi Osaka",
-        "image": "../src/Naomi.jpg",
+        "image": "/images/Naomi.jpg",
         "role": "Young Sensation",
         "department": "Tennis Players"
     },
     {
         "id": 9,
         "name": "Stefanos Tsitsipas",
-        "image": "../src/Stefanos.jpg",
+        "image": "/images/Stefanos.jpg",
         "role": "The Thoughtful Greek",
         "department": "Tennis Players"
     },
     {
         "id": 10,
         "name": "Julia Goerges",
-        "image": "../src/Julia.jpg",
+        "image": "/images/Julia.jpg",
         "role": "Gorgeous Goerges",
         "department": "Tennis Players"
     },
     {
         "id": 11,
         "name": "Stan Wawrinka",
-        "image": "../src/Stan.jpg",
+        "image": "/images/Stan.jpg",
         "role": "Stanimal",
         "department": "Tennis Players"
     },
     {
         "id": 12,
         "name": "Belinda Bencic",
-        "image": "../src/Belinda.jpg",
+        "image": "/images/Belinda.jpg",
         "role": "Swiss Coolness",
         "department": "Tennis Players"
     }
