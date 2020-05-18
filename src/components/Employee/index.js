@@ -6,7 +6,7 @@ class Employee extends Component {
         return (
             <div className="employee">
                 {this.props.employees.map(employee => (
-                    <Card key={employee.id} name={employee.name} role={employee.role} department={employee.department} image={employee.image}/>
+                    <Card key={employee.id} name={employee.name} role={employee.role} department={employee.department} image={employee.image} nationality={employee.nationality}/>
                 ))}
             </div>
         )

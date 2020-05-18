@@ -4,6 +4,7 @@
         "name": "Roger Federer",
         "image": "/images/Roger.jpg",
         "role": "Technical Master",
+        "nationality": "Switzerland",
         "department": "Tennis Players"
     },
     {
@@ -11,6 +12,7 @@
         "name": "Serena Williams",
         "image": "/images/Serena.jpg",
         "role": "Tennis Diva",
+        "nationality": "United States",
         "department": "Tennis Players"
     },
     {
@@ -18,6 +20,7 @@
         "name": "Rafael Nadal",
         "image": "/images/Rafa.jpg",
         "role": "The Spanish Bull",
+        "nationality": "Spain",
         "department": "Tennis Players"
     },
     {
@@ -25,6 +28,7 @@
         "name": "Simona Halep",
         "image": "/images/Simona.jpg",
         "role": "Small Romanian Giant",
+        "nationality": "Romania",
         "department": "Tennis Players"
     },
     {
@@ -32,6 +36,7 @@
         "name": "Novak Djokovik",
         "image": "/images/Novak.jpg",
         "role": "Flexible Wonder",
+        "nationality": "Serbia",
         "department": "Tennis Players"
     },
     {
@@ -39,6 +44,7 @@
         "name": "Bianca Andreescu",
         "image": "/images/Bianca.jpg",
         "role": "Young Dynamite",
+        "nationality": "Canada",
         "department": "Tennis Players"
     },
     {
@@ -46,6 +52,7 @@
         "name": "Juan Martin Del Potro",
         "image": "/images/JuanMartin.jpg",
         "role": "La Torre de Tandil",
+        "nationality": "Argentin",
         "department": "Tennis Players"
     },
     {
@@ -53,6 +60,7 @@
         "name": "Naomi Osaka",
         "image": "/images/Naomi.jpg",
         "role": "Young Sensation",
+        "nationality": "Japan",
         "department": "Tennis Players"
     },
     {
@@ -60,6 +68,7 @@
         "name": "Stefanos Tsitsipas",
         "image": "/images/Stefanos.jpg",
         "role": "The Thoughtful Greek",
+        "nationality": "Greece",
         "department": "Tennis Players"
     },
     {
@@ -67,6 +76,7 @@
         "name": "Julia Goerges",
         "image": "/images/Julia.jpg",
         "role": "Gorgeous Goerges",
+        "nationality": "Germany",
         "department": "Tennis Players"
     },
     {
@@ -74,6 +84,7 @@
         "name": "Stan Wawrinka",
         "image": "/images/Stan.jpg",
         "role": "Stanimal",
+        "nationality": "Switzerland",
         "department": "Tennis Players"
     },
     {
@@ -81,6 +92,7 @@
         "name": "Belinda Bencic",
         "image": "/images/Belinda.jpg",
         "role": "Swiss Coolness",
+        "nationality": "Switzerland",
         "department": "Tennis Players"
     }
 ]
