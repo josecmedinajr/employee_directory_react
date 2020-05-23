@@ -94,5 +94,13 @@
         "role": "Swiss Coolness",
         "nationality": "Switzerland",
         "department": "Tennis Players"
+    },
+    {
+        "id": 13,
+        "name": "Andrea Petkovic",
+        "image": "/images/Belinda.jpg",
+        "role": "German Dancer",
+        "nationality": "Germany",
+        "department": "Tennis Players"
     }
 ]
