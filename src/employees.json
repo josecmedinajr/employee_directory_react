@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Novak Djokovik",
-        "image": "/images/Novak.jpg",
+        "image": "images/Novak.jpg",
         "role": "Flexible Wonder",
         "nationality": "Serbia",
         "department": "Tennis Players"
