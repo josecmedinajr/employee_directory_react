@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Roger Federer",
-        "image": "/images/Roger.jpg",
+        "image": "./images/Roger.jpg",
         "role": "Technical Master",
         "nationality": "Switzerland",
         "department": "Tennis Players"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Serena Williams",
-        "image": "/images/Serena.jpg",
+        "image": "./images/Serena.jpg",
         "role": "Tennis Diva",
         "nationality": "United States",
         "department": "Tennis Players"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Rafael Nadal",
-        "image": "/images/Rafa.jpg",
+        "image": "./images/Rafa.jpg",
         "role": "The Spanish Bull",
         "nationality": "Spain",
         "department": "Tennis Players"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Simona Halep",
-        "image": "/images/Simona.jpg",
+        "image": "./images/Simona.jpg",
         "role": "Small Romanian Giant",
         "nationality": "Romania",
         "department": "Tennis Players"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Novak Djokovik",
-        "image": "images/Novak.jpg",
+        "image": "./images/Novak.jpg",
         "role": "Flexible Wonder",
         "nationality": "Serbia",
         "department": "Tennis Players"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Bianca Andreescu",
-        "image": "/images/Bianca.jpg",
+        "image": "./images/Bianca.jpg",
         "role": "Young Dynamite",
         "nationality": "Canada",
         "department": "Tennis Players"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "name": "Juan Martin Del Potro",
-        "image": "/images/JuanMartin.jpg",
+        "image": "./images/JuanMartin.jpg",
         "role": "La Torre de Tandil",
         "nationality": "Argentin",
         "department": "Tennis Players"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "name": "Naomi Osaka",
-        "image": "/images/Naomi.jpg",
+        "image": "./images/Naomi.jpg",
         "role": "Young Sensation",
         "nationality": "Japan",
         "department": "Tennis Players"
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "name": "Stefanos Tsitsipas",
-        "image": "/images/Stefanos.jpg",
+        "image": "./images/Stefanos.jpg",
         "role": "The Thoughtful Greek",
         "nationality": "Greece",
         "department": "Tennis Players"
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "name": "Julia Goerges",
-        "image": "/images/Julia.jpg",
+        "image": "./images/Julia.jpg",
         "role": "Gorgeous Goerges",
         "nationality": "Germany",
         "department": "Tennis Players"
@@ -82,7 +82,7 @@
     {
         "id": 11,
         "name": "Stan Wawrinka",
-        "image": "/images/Stan.jpg",
+        "image": "./images/Stan.jpg",
         "role": "Stanimal",
         "nationality": "Switzerland",
         "department": "Tennis Players"
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "name": "Belinda Bencic",
-        "image": "/images/Belinda.jpg",
+        "image": "./images/Belinda.jpg",
         "role": "Swiss Coolness",
         "nationality": "Switzerland",
         "department": "Tennis Players"
@@ -98,7 +98,7 @@
     {
         "id": 13,
         "name": "Andrea Petkovic",
-        "image": "/images/Belinda.jpg",
+        "image": "./images/Belinda.jpg",
         "role": "Petkorazzi",
         "nationality": "Germany",
         "department": "Tennis Players"
