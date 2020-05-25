@@ -5,7 +5,7 @@
         "image": "./images/Roger.jpg",
         "role": "Technical Master",
         "nationality": "Switzerland",
-        "department": "Tennis Players"
+        "department": "ATP Tour Player"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "image": "./images/Serena.jpg",
         "role": "Tennis Diva",
         "nationality": "United States",
-        "department": "Tennis Players"
+        "department": "WTA Tour Player"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "image": "./images/Rafa.jpg",
         "role": "The Spanish Bull",
         "nationality": "Spain",
-        "department": "Tennis Players"
+        "department": "ATP Tour Player"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "image": "./images/Simona.jpg",
         "role": "Small Romanian Giant",
         "nationality": "Romania",
-        "department": "Tennis Players"
+        "department": "WTA Tour Player"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "image": "./images/Novak.jpg",
         "role": "Flexible Wonder",
         "nationality": "Serbia",
-        "department": "Tennis Players"
+        "department": "ATP Tour Player"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "image": "./images/Bianca.jpg",
         "role": "Young Dynamite",
         "nationality": "Canada",
-        "department": "Tennis Players"
+        "department": "WTA Tour Player"
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "image": "./images/JuanMartin.jpg",
         "role": "La Torre de Tandil",
         "nationality": "Argentin",
-        "department": "Tennis Players"
+        "department": "ATP Tour Player"
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "image": "./images/Naomi.jpg",
         "role": "Young Sensation",
         "nationality": "Japan",
-        "department": "Tennis Players"
+        "department": "WTA Tour Player"
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "image": "./images/Stefanos.jpg",
         "role": "The Thoughtful Greek",
         "nationality": "Greece",
-        "department": "Tennis Players"
+        "department": "ATP Tour Player"
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "image": "./images/Julia.jpg",
         "role": "Gorgeous Goerges",
         "nationality": "Germany",
-        "department": "Tennis Players"
+        "department": "WTA Tour Player"
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "image": "./images/Stan.jpg",
         "role": "Stanimal",
         "nationality": "Switzerland",
-        "department": "Tennis Players"
+        "department": "ATP Tour Player"
     },
     {
         "id": 12,
@@ -93,14 +93,14 @@
         "image": "./images/Belinda.jpg",
         "role": "Swiss Coolness",
         "nationality": "Switzerland",
-        "department": "Tennis Players"
+        "department": "WTA Tour Player"
     },
     {
         "id": 13,
         "name": "Andrea Petkovic",
-        "image": "./images/Belinda.jpg",
-        "role": "Petkorazzi",
+        "image": "./images/Andrea.jpg",
+        "role": "The Petkorazzi",
         "nationality": "Germany",
-        "department": "Tennis Players"
+        "department": "WTA Tour Player"
     }
 ]
