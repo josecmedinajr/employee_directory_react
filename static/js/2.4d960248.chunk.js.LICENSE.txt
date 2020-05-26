@@ -4,6 +4,18 @@ object-assign
 @license MIT
 */
 
+/*! ./darkmode */
+
+/*! no static exports found */
+
+/*!**********************!*\
+        !*** ./src/index.js ***!
+        \**********************/
+
+/*!*************************!*\
+        !*** ./src/darkmode.js ***!
+        \*************************/
+
 /** @license React v0.19.1
  * scheduler.production.min.js
  *
