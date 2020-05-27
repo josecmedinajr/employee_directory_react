@@ -3,6 +3,9 @@ import './App.css';
 import Employee from './components/Employee';
 import Button from './components/Button';
 import employees from './employees.json';
+import Darkmode from 'darkmode-js';
+
+new Darkmode().showWidget();
 
 class App extends Component {
   state = {
